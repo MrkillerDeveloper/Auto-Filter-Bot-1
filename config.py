@@ -7,10 +7,10 @@ from logging.handlers import RotatingFileHandler
 # Get a bot token from botfather
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 
-# Get from my.telegram.org (or @UseTGXBot)
+# Get from my.telegram.org (or @Mytele_ORGbot)
 APP_ID = int(os.environ.get("APP_ID", ""))
 
-# Get from my.telegram.org (or @UseTGXBot)
+# Get from my.telegram.org (or @Mytele_ORGbot)
 API_HASH = os.environ.get("API_HASH", "")
 
 # Generate a user session string 
