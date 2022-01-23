@@ -1,31 +1,31 @@
 {
     "name": "Auto Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/a167e88b8d4da6a6cd035.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "Harshil"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://www.instagram.com/h_a_r_s_h_i_l1109",
+    "repository": "https://github.com/harshil8981/Auto-Filter-Bot-1",
+    "success_url": "https://telegram.dog/Mrkiller_1109",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash from my.telegram.org or @Mytele_ORGbot",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID from my.telegram.org or @Mytele_ORGbot",
             "value": ""
         },
         "TG_USER_SESSION": {
-            "description": "A pyrogram user session string. Generate from https://repl.it/@SpEcHiDe/GenerateStringSession",
+            "description": "A pyrogram user session string. Generate from http://t.me/genStr_HProbot ",
             "value": ""
         },
         "MAINCHANNEL_ID": {
