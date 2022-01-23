@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/Hpbot_update")
+                            "⭕️ SUPPORT ⭕️", url="https://t.me/HP_Bot_discuss_group")
                     ]
                 ]
             ),
