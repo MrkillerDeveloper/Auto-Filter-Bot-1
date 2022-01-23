@@ -18,11 +18,11 @@
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![Hpbot_update](https://img.shields.io/badge/Hpbot_update-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Hpbot_update)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![HP_Bot_discuss_group](https://img.shields.io/badge/HP_Bot_discuss_group-Support-red?style=flat&logo=telegram)](https://telegram.dog/HP_Bot_discuss_group)  [![Instagram](https://img.shields.io/badge/HarshilWebsite-red?style=flat&logo=CodersRank)](https://www.instagram.com/h_a_r_s_h_i_l1109)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/harshil8981/Auto-Filter-Bot-1)
 
 
 
